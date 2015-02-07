@@ -204,15 +204,17 @@ light out of darknesse, so darknesse out of light.</hi> How faire rose the Sunne
          <div type="letter">
             <pb facs="tcp:21850:8"/>
             <head>A Copie of a Letter sent by the Ministers of <hi>Germany</hi> to the <hi>Dutch Church in</hi> LONDON.</head>
-            <figure>
-               <head>Snalles and froges eagerly eaten</head>
-            </figure>
-            <figure>
-               <head>Eatinge dead mens guts and Interalls</head>
-            </figure>
-            <figure>
-               <head>A diuines wife saw 6 of her Children ley starued before her eyes. Corne 3 pounds 18 shilling a bushell.</head>
-            </figure>
+            <p>
+               <figure>
+                  <head>Snalles and froges eagerly eaten</head>
+               </figure>
+               <figure>
+                  <head>Eatinge dead mens guts and Interalls</head>
+               </figure>
+               <figure>
+                  <head>A diuines wife saw 6 of her Children ley starued before her eyes. Corne 3 pounds 18 shilling a bushell.</head>
+               </figure>
+            </p>
             <p>
                <pb facs="tcp:21850:8"/>
 SInce the Imperialists passing the Rhine, first entred into our Countrey, which is al<g ref="char:EOLhyphen"/>most two yeeres agoe, de<g ref="char:EOLhyphen"/>struction hath come upon as like a whirlewind, and sudden desolati<g ref="char:EOLhyphen"/>on hath depopulated this our most flou<g ref="char:EOLhyphen"/>tishing country; our Cities are turned in<g ref="char:EOLhyphen"/>to Townes, our Townes into Villages, our Villages into Cottages; where before were a thousand, there now scarce a hundred, and where a hundred, there the tenth is hardly left alive: Those which the sword hath spared, the Pestilence hath consu<g ref="char:EOLhyphen"/>med, those which the Pestilence hath left, Famine hath destroyed, and the small rem<g ref="char:EOLhyphen"/>nant which pale-fac'd Famine hath not de<g ref="char:EOLhyphen"/>voured, are so transce<g ref="char:cmbAbbrStroke">̄</g>dently miserable, as it
@@ -360,15 +362,17 @@ with downe-beds above and under them: their stoves kept them insensible of the w
                <pb facs="tcp:21850:17"/>
                <head>CHAP. II. <hi>Of Extortions and Exactions.</hi>
                </head>
-               <figure>
-                  <head>the blazinge starre 1617</head>
-               </figure>
-               <figure>
-                  <head>burgers and ministers., releued in prisson</head>
-               </figure>
-               <figure>
-                  <head>a diuine tortured with a Catt.</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>the blazinge starre 1617</head>
+                  </figure>
+                  <figure>
+                     <head>burgers and ministers., releued in prisson</head>
+                  </figure>
+                  <figure>
+                     <head>a diuine tortured with a Catt.</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="5" facs="tcp:21850:17"/>
 TO beginne with warre, which began the rest, who knoweth not that this mercilesse fury hath there plaied the tyrant, ever since that burning Bea<g ref="char:EOLhyphen"/>con, the blazing Starre, gave them the alarme, 1617. which the best Astrologers expounded the sword of <hi>Germany.</hi> A Prophecie I have seen, long since, written in a Booke, which belonged to a Canonick of <hi>Nimegen,</hi> and now in the Li<g ref="char:EOLhyphen"/>brary at <hi>Zutphen;</hi> that a time should come, when one <hi>Frederike</hi> should be King, and then should the Princes of <hi>Germany,</hi> the Nobility of <hi>Bohemia,</hi> and the people of both be oppressed, and warre rage, beyond all precedent of former ages this, if ever, is now fulfilled in our daies. And if in such disorder it may be possible, I will observe this order in speaking thereof: first, extortions and exactions: secondly tortures and torments: thirdly, rape and ravishing: fourthly, robbe<g ref="char:EOLhyphen"/>ry and pillaging: fifthly, bloud-shed and kil<g ref="char:EOLhyphen"/>ling; sixthly, burning and destroying. These shall be the Scenes of this first act. Famine and pestilence shall stand for the other acts of this direfull tragedy: in which, as no action or pas<g ref="char:EOLhyphen"/>sion
@@ -394,24 +398,27 @@ Presently after, they at <hi>Frankendale</hi> surren<g ref="char:EOLhyphen"/>dri
                <p>
                   <hi>Aronibeus</hi> reporteth from the Letters of the D. of <hi>Saxony,</hi> that some of <hi>Tillies</hi> Souldiers caused his Subjects to be tortured, by halfe strangling them, and pressing their thumbes with wheeles.</p>
                <p>His Souldiers, and those of <hi>Walsten,</hi> exercised yet greater cruelties in <hi>Pemeren,</hi> and therea<g ref="char:EOLhyphen"/>bouts. They made the people by force to eate their owne excrements: and if they would not, they thrust them downe their throates, and so choaked some of them.</p>
-               <figure>
-                  <head>twisted out there eyes</head>
-               </figure>
-               <figure>
-                  <head>Raced offe there skinne with knifes</head>
-               </figure>
-               <figure>
-                  <head>hanging vp in the smoke</head>
-               </figure>
-               <figure>
-                  <head>blood sprouted at fingers end.</head>
-               </figure>
-               <figure>
-                  <head>plaining there faces</head>
-               </figure>
-               <figure>
-                  <head>pisse poured downe there. throates</head>
-               </figure>
+               <p>
+                  <pb facs="tcp:21850:19"/>
+                  <figure>
+                     <head>twisted out there eyes</head>
+                  </figure>
+                  <figure>
+                     <head>Raced offe there skinne with knifes</head>
+                  </figure>
+                  <figure>
+                     <head>hanging vp in the smoke</head>
+                  </figure>
+                  <figure>
+                     <head>blood sprouted at fingers end.</head>
+                  </figure>
+                  <figure>
+                     <head>plaining there faces</head>
+                  </figure>
+                  <figure>
+                     <head>pisse poured downe there. throates</head>
+                  </figure>
+               </p>
                <pb facs="tcp:21850:20"/>
                <p>
                   <pb n="11" facs="tcp:21850:20"/>
@@ -450,21 +457,23 @@ And some devills among them did proceed so farre, that they consulted and devise
                <pb facs="tcp:21850:23"/>
                <head>CHAP. IIII. <hi>Of Rape and Ravishing.</hi>
                </head>
-               <figure>
-                  <head>
-                     <gap reason="illegible: unclear" extent="4 letters">
-                        <desc>••••</desc>
-                     </gap>nesse in Chur<gap reason="illegible: unclear" extent="3 letters">
-                        <desc>•••</desc>
-                     </gap>
-                  </head>
-               </figure>
-               <figure>
-                  <head>A maide Rauisched and after quarterd</head>
-               </figure>
-               <figure>
-                  <head>Maides leapinge into Riuers.</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>
+                        <gap reason="illegible: unclear" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>nesse in Chur<gap reason="illegible: unclear" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>A maide Rauisched and after quarterd</head>
+                  </figure>
+                  <figure>
+                     <head>Maides leapinge into Riuers.</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="17" facs="tcp:21850:23"/>
 I Have said much of the former Particular, and yet but little. I will now speake little of this en<g ref="char:EOLhyphen"/>suing abomination, and (I feare) too much. Rapes and Ravishing scarce to be spoken or heard of, have they committed, beyond all humane mo<g ref="char:EOLhyphen"/>desty. Mayds and Matrons, Widdowes and Wives, without distinction have they violated and forced, and that in the presence of their Pa<g ref="char:EOLhyphen"/>rents, Husbands, Neighbours, &amp;c. Women with child in child-bed, &amp;c. no pen can write it, no faith believe it. No Chappell Church or place consecrated hath beene free from the filthiest of pollutions, or most sacrilegious barbarismes. The very Hospitalls and Bedlame-houses have not beene spared: their divellish madnesse hath there found subjects for their purpose.</p>
@@ -487,15 +496,20 @@ the Cloysters, but after they have entred by force, broken open their Trunkes an
                <head>CHAP. V. <hi>Of Robbing and Pillaging.</hi>
                </head>
                <p>NO man can now passe any where in <hi>Dutch</hi>-land; but hee is robbed, stripped, perhaps killed. The Merchants of <hi>Frankford, Nurenberg Lipzig, Hamburg,</hi> &amp;c. have had too wofull experience hereof: witnesse of In<g ref="char:EOLhyphen"/>finite this one instance. The Merchants of <hi>Basil,</hi> returning from the Mart at <hi>Strasburg,</hi> and other Faires, to goe to <hi>Shoffehausen,</hi> were set upon by the Imperialists in their lodging, and though they offered to prove themselves Merchants, and craved their lives upon their knees, yet they killed ten of them, saying, they must dye, because they were heretickes. The rest leaving their goods and garments behind, escaped by flight starke naked in the night.</p>
-               <figure>
-                  <head>Marchants Robed and slaine</head>
-               </figure>
-               <figure>
-                  <head>persons priuelegdd Rifled</head>
-               </figure>
-               <figure>
-                  <head>Divines cutt in peaces</head>
-               </figure>
+               <p>The very Convoyes which waite on those that travell to guard them are often-times as bad, almost, as a strange enemy. They watch all occasions to take from them what they have, their money and goods, their horses as they goe to watering, or out of the stables in the night, spoyle their Wagons when they make a stand, rifle and strip the meanest persons, if they straggle from the company, and so they ser<g ref="char:EOLhyphen"/>ved
+<pb facs="tcp:21850:25"/>
+                  <figure>
+                     <head>Marchants Robed and slaine</head>
+                  </figure>
+                  <figure>
+                     <head>persons priuelegdd Rifled</head>
+                  </figure>
+                  <figure>
+                     <head>Divines cutt in peaces</head>
+                  </figure>
+                  <pb facs="tcp:21850:26"/>
+                  <pb n="25" facs="tcp:21850:26"/>
+us all the way from <hi>Heidelberg</hi> to <hi>Hessenland</hi> that we knew not which was worse, our friend with us, or our enemy behind us.</p>
                <p>Two Countesles of great nobility, with their faire daughters and followers in distresse, were entertained by us in the castle of <hi>Heydelberg,</hi> the one immediately before, the other in the time of the siege. When our hope of subsisting be<g ref="char:EOLhyphen"/>gan to faile, they went away with the enemies pasport. Notwithstanding which they were by them robbed and rifled in their coaches of all they had, not sparing the very garments that covered them.</p>
                <p>The priviledged persons of royall Embassa<g ref="char:EOLhyphen"/>dours, their goods and followers, cannot be se<g ref="char:EOLhyphen"/>cured from them, witnes this yeare the shame<g ref="char:EOLhyphen"/>full plundering of the Danish Embassadour.</p>
                <p>What quarter they give to the traveller, the like or worse they afford the inhabitants, if they escape with their lives, this is all, and well too: when the time hath beene that one might have travelled safe from the one end of <hi>Germany</hi> to the other with a white rod in his hand and an hundred pound in his purse.</p>
@@ -506,15 +520,20 @@ the Cloysters, but after they have entred by force, broken open their Trunkes an
                <head>CHAP. VI. <hi>Of Bloodshed and killing.</hi>
                </head>
                <p>AS for killing, this is the least of all the rest. Death puts an end to all miseries; onely they that survive are oft-times the worse for want of them that are dead. To report the blood-shed of this warre, would be incredible: <hi>Alsted</hi> saith, that before the King of <hi>Swedens</hi> comming, it had consumed no lesse than 100000. If this be true, what hath it done since? How many millions have miserably perished? They have sometimes killed one another; and among other precedents this is not least remarkable, that <hi>Gourdon</hi> and <hi>Lesley</hi> Scotch Colonells, with Colonell <hi>Butler</hi> the Irish man, who killed <hi>Walstein,</hi> the Count of <hi>Tirskie,</hi> and other Impe<g ref="char:EOLhyphen"/>riall officers then ready to revolt to the Swedish party, are now, this yeere after the same man<g ref="char:EOLhyphen"/>ner, hurt, or killed themselves (as is written) by <hi>Gallas</hi> his followers, upon a dispute about that former businesse; a Document for all stran<g ref="char:EOLhyphen"/>gers, to take heede, how they collogue with those monsters, in such dangerous actions, who love the Treason, but hate the Traytor.</p>
-               <figure>
-                  <head>Priests slaine at the Altars</head>
-               </figure>
-               <figure>
-                  <head>Croats eate Children</head>
-               </figure>
-               <figure>
-                  <head>Noses &amp; eares Cut of to make hatbandes</head>
-               </figure>
+               <p>The cruelty of the Souldier towards the in<g ref="char:EOLhyphen"/>habitants of those Countries, is inexpressible.
+<pb facs="tcp:21850:27"/>
+                  <figure>
+                     <head>Priests slaine at the Altars</head>
+                  </figure>
+                  <figure>
+                     <head>Croats eate Children</head>
+                  </figure>
+                  <figure>
+                     <head>Noses &amp; eares Cut of to make hatbandes</head>
+                  </figure>
+                  <pb facs="tcp:21850:28"/>
+                  <pb n="29" facs="tcp:21850:28"/>
+Persons secular and sacred, have had the same measure. Neere <hi>Fryburg, Holck</hi> his souldiers cut in pieces a reverend Minister, a man of rare learning and piety. The dogs would not lick his bloud, nor touch his flesh. So his friends bu<g ref="char:EOLhyphen"/>ried his mangled members.</p>
                <p>At <hi>Landshood</hi> in <hi>Bavier,</hi> the souldiers entring by force, killed not only all they found in arms, but the innocent inhabitants, yea, the very Priests kneeling at the Altars; and divers other instances of like nature I could produce.</p>
                <p>Now what may the poore peasant and coun<g ref="char:EOLhyphen"/>trey-dwellers expect? to kill them if they re<g ref="char:EOLhyphen"/>sist or refuse them any thing, is but ordinary in this warre: among the Imperiallists is a base sort of rascally horse-men which serve them, and are called Croats. The tenth part of them are not of that Countrey: for they are a mis<g ref="char:EOLhyphen"/>cellany of all strange nations, without God, without religion, and have only the outsides of men, and scarse that too. They make no con<g ref="char:EOLhyphen"/>science of murthering men or women, old or young, yea, the very innocent babes; and like the beasts among whom they are bred, doe sometimes eat them, when other food might be found: the poore people have by these beene every where knocked downe in the fields and wayes, slaughtered, stabbed, tortured barba<g ref="char:EOLhyphen"/>rously.</p>
                <p>Their fellow souldiers are not much behind
@@ -530,13 +549,15 @@ them having some where left such foot-steps of their cruelty, that there scarce 
                <pb facs="tcp:21850:30" rendition="simple:additions"/>
                <head>CHAP. VII. <hi>Of Burning and Destroying.</hi>
                </head>
-               <figure>
-                  <head>2000. <hi>villages burnt in Bauaria</hi>
-                  </head>
-               </figure>
-               <figure>
-                  <head>No tillage nor Breding Cattell But dringe all in to Citties</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>2000. <hi>villages burnt in Bauaria</hi>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>No tillage nor Breding Cattell But dringe all in to Citties</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="33" facs="tcp:21850:30"/>
 FOr burning, pulling down and rui<g ref="char:EOLhyphen"/>ning of Churches, Cities, Villages, the like hath not been heard. The Swedish army burned above 2000 Villages in <hi>Bavaria,</hi> in revenge of the <hi>Palatine</hi> cause: But their enemies spare mei<g ref="char:EOLhyphen"/>ther foes nor friends. What goodly houses of the Nobility and Gentry shall you, there, see fallen down, or so defaced, as is scarce repara<g ref="char:EOLhyphen"/>ble without building new? From what quar<g ref="char:EOLhyphen"/>ter soever the army riseth, they will bee sure to leave some dwellings in the ashes, some in the smoake. To that passe it is now come, that eve<g ref="char:EOLhyphen"/>ry one that is a man, betaketh himselfe to arms. There is now no other aboad, but some campe, no other plow to follow, no other imployment but the warre, for he that is not an actor with the rest, must needes bee a sufferer among the miserable patients. No tilling of the land, no breeding of cattell; for if they should, the next yeare the souldiers devoure it. Better to sit still, than to labour, and let others reape the profits, Hence an universall desolation.</p>
@@ -551,12 +572,14 @@ FOr burning, pulling down and rui<g ref="char:EOLhyphen"/>ning of Churches, Citi
                <pb facs="tcp:21850:32"/>
                <head>CHAP. VIII. <hi>Of Famine.</hi>
                </head>
-               <figure>
-                  <head>Eateing dead horses</head>
-               </figure>
-               <figure>
-                  <head>Fowles eate the dead</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>Eateing dead horses</head>
+                  </figure>
+                  <figure>
+                     <head>Fowles eate the dead</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="35" facs="tcp:21850:32"/>
 FAmine commeth next in place, a thing so grievous, that <hi>David</hi> prefer<g ref="char:EOLhyphen"/>red the pestilence in his choicy. To see men slaine by the sword, or die of contagious diseases, is not yet so grievous, as to see them dye of famine, or kill to eate one another. In <hi>Samaria</hi> besieged by Benha<g ref="char:EOLhyphen"/>dad King of <hi>Syria,</hi> the famine was so great, that an Asses head was sold for 80. pieces of silver, &amp; the fourth part of a cab of Doves dung for 50. pieces of silver. Two women covenanted to eate their children successively: and when they had boy<g ref="char:EOLhyphen"/>led and eaten the one, the other woman hid hers. In the siege of <hi>Ierusalem,</hi> Mice, Rats, and Hides were good meat, and women did dresse and eate their owne children, the smell whereof drew others that were hunger-starv'd to come to share with them. But that Cities not besiged, and a Country naturally fertile, should be so ruined, as not to be able, for so long a time to afford bread to a poore remnant of people, but that they must be faine to eate carrion, yea, dead men, yea, one another living: this is pittifull, this is un<g ref="char:EOLhyphen"/>heard of.</p>
@@ -579,12 +602,15 @@ in the night drew into the towne, (though some in so doing were slaine by our sh
                </head>
                <p>THe armies now everywhere over<g ref="char:EOLhyphen"/>ranne the Couutrey, devoured both Corne &amp; catel: so they that had goods left, offered to give all for a little bellytimber. But not so obtaining it they were faine to lie upon the streets and high waies, (a thing not usuall with them) and to crave for Gods sake where with to refresh their dying soules. But no sooner had they swallowed what was given them, but they fell downe and died.</p>
                <p>Memorable is that story which <hi>Reinmannuste</hi> re<g ref="char:EOLhyphen"/>cordeth of the Famine in <hi>Alsatia</hi> the last yeere, which is at this present yet worse. <hi>Valentine</hi> of <hi>Engelin</hi> a citizen of <hi>Rufacke,</hi> with the dead-bu<g ref="char:EOLhyphen"/>rier, delivered unto the Magistrate upon their oathes, that <hi>Anne</hi> the daughter of <hi>Iohn Ebstein</hi> con<g ref="char:EOLhyphen"/>fessed unto them, that she came from <hi>Colmar,</hi> where shee had waited many daies before the hangmans doore in hope to get a piece of horse<g ref="char:EOLhyphen"/>flesh to satifie her hunger. But not prevailing, shee was now come to <hi>Rufack</hi> entreating them, that if there was the body of any young man or woman unburied, that they would give it her to eate to preserve her life.</p>
-               <figure>
-                  <head>Carion Sould in the Market as Dogges &amp; Rattes</head>
-               </figure>
-               <figure>
-                  <head>Fyteinge for Carion</head>
-               </figure>
+               <p>
+                  <pb facs="tcp:21850:34"/>
+                  <figure>
+                     <head>Carion Sould in the Market as Dogges &amp; Rattes</head>
+                  </figure>
+                  <figure>
+                     <head>Fyteinge for Carion</head>
+                  </figure>
+               </p>
                <pb facs="tcp:21850:35"/>
                <p>
                   <pb n="41" facs="tcp:21850:35"/>
@@ -606,12 +632,14 @@ beene rescued, shee had beene rent in pieces by the Dogs.</p>
                <pb facs="tcp:21850:37"/>
                <head>CHAP. X. <hi>Of Famine.</hi>
                </head>
-               <figure>
-                  <head>3 wp,em killinge and after eateing each other</head>
-               </figure>
-               <figure>
-                  <head>wemen Eate there owne Children</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>3 wp,em killinge and after eateing each other</head>
+                  </figure>
+                  <figure>
+                     <head>wemen Eate there owne Children</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="45" facs="tcp:21850:37"/>
 AS the sicknesse spreadeth by the contagion of infected bodies, so hath this famine encreased by the neglect of Providence in the disa<g ref="char:EOLhyphen"/>bled and famished. When no more food was to be got, they were inraged like beasts one against another, and gathering together by troopes, have watched for one ano<g ref="char:EOLhyphen"/>ther upon the high waies, and so murthered, dressed, and eaten one another. Thenceforth no man could passe safe on the way, or in the streets, except wellarmed, or travelling with a convoy. And some of them have beene taken and severely punished by Justice, neverthelesse they haue secretly lurked here and there, and set upon the passengers, as by many instances, I could shew.</p>
@@ -642,12 +670,15 @@ sometime the Princely schoole of <hi>Zwybruck,</hi> ha<g ref="char:EOLhyphen"/>v
                <p>In <hi>Saxony</hi> at this present the case is so mise<g ref="char:EOLhyphen"/>rable in this kinde, that no pen can expresse it. The Saxon-Austrian Army (were they not beaten) must retreite through hunger, ha<g ref="char:EOLhyphen"/>ving famished both the inhabitants and them<g ref="char:EOLhyphen"/>selves.</p>
                <p>After the same manner it is upon the Rhine, and many other parts, where the Armies are or have lately beene.</p>
                <p>To that extremity it is come, that some con<g ref="char:EOLhyphen"/>strained by hunger, have taken poyson to ad<g ref="char:EOLhyphen"/>vance death.</p>
-               <figure>
-                  <head>Dead Corpes digd out of there Graues to Eate</head>
-               </figure>
-               <figure>
-                  <head>Some take poyson to haste<g ref="char:cmbAbbrStroke">̄</g> death</head>
-               </figure>
+               <p>
+                  <pb facs="tcp:21850:41"/>
+                  <figure>
+                     <head>Dead Corpes digd out of there Graues to Eate</head>
+                  </figure>
+                  <figure>
+                     <head>Some take poyson to haste<g ref="char:cmbAbbrStroke">̄</g> death</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="53" facs="tcp:21850:41"/>
 In a word, the very wild beasts in the woods doe starve for want of prey.</p>
@@ -658,12 +689,20 @@ In a word, the very wild beasts in the woods doe starve for want of prey.</p>
                <pb n="54" facs="tcp:21850:42"/>
                <head>CHAP. XII. <hi>Of sicknesse and diseases.</hi>
                </head>
-               <figure>
-                  <head>in Basile 1633 died. 20000 in Trent. 1634 died 30000</head>
-               </figure>
-               <figure>
-                  <head>Generall Holcke offred 600 Rixdollers for a diuiń to comforte him.</head>
-               </figure>
+               <p>DIseases are more feared as they are more dangerous. Great dis<g ref="char:EOLhyphen"/>eases for their difficulty of cure, acute or sharpe diseases, be<g ref="char:EOLhyphen"/>cause when they kill they dis<g ref="char:EOLhyphen"/>patch suddenly. But Epidemick and contagi<g ref="char:EOLhyphen"/>gous maladies have yet something more, be<g ref="char:EOLhyphen"/>sides their greatnesse, besides their acutenesse to make them terrible. And that is this, that they deprive a man of the comfort of his ac<g ref="char:EOLhyphen"/>quaintance, neighbours, friends, kinsfolkes, &amp;c. Adde hereunto that for these wee sel<g ref="char:EOLhyphen"/>dome know any specificall remedy, for the pestilence I am sure there is none, as being Gods immediate judgement, though oft times hee useth the ministery of secondary causes, for the executing of his further pleasure herein, I have made tryall of all sorts of Antidotes, vegetable, minerall, animall, and that according to rationall method, yet am I almost as farre from the cure, as ever. These diseases are oft times Warres conco<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: broken type" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itants or effects. Rare it is for a great Army
+<pb facs="tcp:21850:42"/>
+                  <figure>
+                     <head>in Basile 1633 died. 20000 in Trent. 1634 died 30000</head>
+                  </figure>
+                  <figure>
+                     <head>Generall Holcke offred 600 Rixdollers for a diuiń to comforte him.</head>
+                  </figure>
+                  <pb n="56" facs="tcp:21850:43"/>
+to stay long in a place, and not to leave some infection behinde. Beyond the Dona, after the <hi>Swedens</hi> departure from thence with their Ar<g ref="char:EOLhyphen"/>mies, diseases unheard of, and the Pest with<g ref="char:EOLhyphen"/>all swept away a world of people. The like happened shortly after, about <hi>Nurenberg</hi> in the high Palatinate, and on the frontiers of <hi>Boheme.</hi>
+               </p>
                <p>Before Mastreicht, after the Towne was taken, our quarters had contracted infecti<g ref="char:EOLhyphen"/>ous sicknesses: whereof I my selfe had my share, being left sicke in the Towne of a purple Feaver. But the yeere following both the Towne and Countrey were grievously affli<g ref="char:EOLhyphen"/>cted, with Feavers, Fluxes, and the Plague above all.</p>
                <p>The same yeere <hi>Elsas</hi> or <hi>Alsatia</hi> and the lower Palatinate, where the Armies of the Duke of <hi>Lorraine</hi> and the Rhinegrave had lodged, did suffer miserably in this kinde.</p>
                <p>The Army of the Prince of <hi>Orange</hi> having taken <hi>Rhineberg,</hi> and marching towards <hi>Ma<g ref="char:EOLhyphen"/>striche</hi> and <hi>Liege,</hi> left such infection in great <hi>Bra<g ref="char:EOLhyphen"/>bant,</hi> about <hi>Firkens</hi>-ward, that the inhabitants the yeere after were afraid of their owne dwellings.</p>
@@ -687,12 +726,14 @@ we were shut up: which could not but be aug<g ref="char:EOLhyphen"/>mented by th
                <pb facs="tcp:21850:45"/>
                <head>CHAP. XIII. <hi>Of Sickenesse and Diseases.</hi>
                </head>
-               <figure>
-                  <head>In Bauier men not left to bury the dead, but Rattes, and mice, devoured there carcasses.</head>
-               </figure>
-               <figure>
-                  <head>Haue pittey vpon me, haue pittey vpon me, o yee my frends for the hand of the Lord hath touched me.</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>In Bauier men not left to bury the dead, but Rattes, and mice, devoured there carcasses.</head>
+                  </figure>
+                  <figure>
+                     <head>Haue pittey vpon me, haue pittey vpon me, o yee my frends for the hand of the Lord hath touched me.</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="61" facs="tcp:21850:45"/>
 THe yeere 1635, almost whole <hi>Germany</hi> felt this punishment, in most grievous wise. In <hi>Swaben</hi> the Countrey of <hi>Ty<g ref="char:EOLhyphen"/>roll,</hi> all along the <hi>Reine,</hi> and the Maine, it was so furiously hot, that all places were alike safe. The King of <hi>Hungary</hi> was faine to dissolve his Court, and send them away into divers Cities, for their safer abode.</p>
